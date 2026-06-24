@@ -66,7 +66,7 @@
 
 Made with ⚡ at GLA University, Mathura, India
 
-**GLAd Studio © 2025**
+**GLAd Studio © 2026**
 
 `// we ship, therefore we are`
 
