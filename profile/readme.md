@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ GLAd Studio
+# ⚡ GLAD Studio
 
 ### Build · Ship · Scale
 
